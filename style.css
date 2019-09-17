@@ -1,3 +1,42 @@
 h1 {
-  color: red;
+	color: #B11441;
+	font-size: 35px;
+	text-align: center;
+}
+h2 {
+	color: 	#F08080
+}
+body {
+	text-align: center;
+	background: #D9FAFF;
+	font-family: 'Montserrat', sans-serif;
+}
+ul {
+	text-align: left;
+}
+.mer {
+	width: 300px;
+}
+.bordeaux {
+	width: 400px;
+}
+.tout{
+	margin: 70px;
+}
+
+.box-global{
+	background: black;
+	padding: 50px;
+}
+
+.box-blue {
+	background: blue; 
+}
+
+.box-white {
+	background: white;
+}
+
+.box-red{
+	background: red;
 }
